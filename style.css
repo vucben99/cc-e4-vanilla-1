@@ -105,6 +105,7 @@ main {
     bottom: -20px;
     background-color: var(--color-primary);
     border: solid 2px var(--color-secondary);
+    color: var(--color-secondary);
     cursor: pointer;
     display: flex;
     align-items: center;
